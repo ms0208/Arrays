@@ -1,4 +1,4 @@
-// sub array sum is zero.
+//26.  sub array sum is zero.
 #include<iostream>
 using namespace std;
 
